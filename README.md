@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adel Sonoqrut</h1>
-<h3 align="center">I'm a full stack developer and I'm working on: HTML,CSS,JavaScript Web design NodeJs Mongodb react.js</h3>
+<h3 align="center">I'm a full stack developer</h3>
 
 
 
