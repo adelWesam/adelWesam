@@ -1,17 +1,32 @@
-<h1 align="center">Hi 👋, I'm Adel Sonoqrut</h1>
-<h3 align="center">I'm a full stack developer</h3>
+# Hi, I'm Adel Sonoqrut 👋
 
+**Full-Stack Developer & Team Leader** · Amman, Jordan · Open to remote roles (GCC & worldwide)
 
+I build enterprise web systems that replace paper, spreadsheets and manual follow-ups with real-time digital workflows. At **ELZAY** I set up the web development function from scratch and now lead the team that runs the company's internal platforms, used by **1,500+ employees** across HR, warehouse, logistics, aviation and sales.
 
-- 🔭 I worked on **HTML,CSS,JavaScript Web design NodeJs Mongodb react.js**
+### What I've built (in production)
 
-- 👯 I have completed several projects including **stack overflow**
+| System | What it does |
+|---|---|
+| **Warehouse & Entitlements Platform** | Category-based entitlement engine and real-time stock tracking, built for Saudi Arabian Airlines staff distribution |
+| **Booking System** | Asynchronous, event-driven booking service on **Eclipse Vert.x** |
+| **Asset Maintenance System** | QR-driven maintenance and spare-parts tracking that removed manual data entry |
+| **Overtime & Timekeeping** | Tamper-resistant badge QR scanning with multi-scan validation and fingerprint integration |
+| **HR Self-Service Platform** | Leave requests, approvals and employee records in one place |
+| **Procurement Workflow** | Multi-level purchase approvals, POs, and vendor offers with in-system negotiation |
+| **Sales Visit Tracker** | Visit scheduling, live activity monitoring and reporting for field sales |
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/adelsonoqrut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adelsonoqrut" height="30" width="40" /></a>
-</p>
+I also led a back-end migration from **Sequelize ORM to optimized raw SQL (mssql)**, improving performance and flexibility.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### Tech stack
 
+**Frontend:** React · Redux · JavaScript · HTML · CSS
+**Backend:** Node.js · Express · Java (Vert.x) · VB.NET · REST APIs
+**Databases:** MSSQL · PostgreSQL · MongoDB · Firebase
+**Other:** Git · QR/barcode integration · Agile
+
+### Let's connect
+
+[LinkedIn](https://www.linkedin.com/in/adelsonoqrut/) · sonoqrut.adel@gmail.com
+
+> Most of my work is private company software, so it isn't public here. I'm happy to walk through architecture and code samples in an interview.
