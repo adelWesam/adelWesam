@@ -20,10 +20,10 @@ I also led a back-end migration from **Sequelize ORM to optimized raw SQL (mssql
 
 ### Tech stack
 
-**Frontend:** React · Redux · JavaScript · HTML · CSS
-**Backend:** Node.js · Express · Java (Vert.x) · VB.NET · REST APIs
-**Databases:** MSSQL · PostgreSQL · MongoDB · Firebase
-**Other:** Git · QR/barcode integration · Agile
+- **Frontend:** React · Redux · JavaScript · HTML · CSS
+- **Backend:** Node.js · Express · Java (Vert.x) · VB.NET · REST APIs
+- **Databases:** MSSQL · PostgreSQL · MongoDB · Firebase
+- **Other:** Git · QR/barcode integration · Agile
 
 ### Let's connect
 
